@@ -1,0 +1,17 @@
+PODS:
+  - PKHUD (4.0.0)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+
+DEPENDENCIES:
+  - PKHUD (~> 4.0)
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  PKHUD: 2bb45c936bb8afa39f3cd33ec14e8cc89f624255
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+
+PODFILE CHECKSUM: efb1ea63b2f1b772b5237ddedfa32160816c710a
+
+COCOAPODS: 1.4.0
